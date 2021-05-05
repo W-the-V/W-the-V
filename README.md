@@ -11,6 +11,7 @@ I used to be a counselor, but have since changed careers to Software Engineering
 - 🔭 I’m currently working on a sorting algorithm visualizer
 - 🌱 I’m currently learning materialize, bootstrap, and brushing up on ds&a
 - 💬 Ask me anything. I love discussing Pyschology and Coding.
+- 👔 Currently seeking employment.
 
 ## ⚡ Technologies
 
