@@ -1,7 +1,7 @@
 ### Hello, my name is Walter.
 
 
-I used to be a counselor, but have since changed careers to Software Engineering. From a young age, my driving interest has always been in Problem Solving. From solving puzzles in Video Games (The legend of zelda franchise will always be my favorite) to building computers, to talking problems through with others, to eventually coding applications for computers, problem solving has always been close at hand for me. I am thankful that I found coding as a career, as it allows me to do something that I truly enjoy for a living. I am always open to collaborative projects. Feel free to reach out to me anytime and I will get back to you as soon as I can.
+I used to be a counselor, but have since changed careers to Software Engineering. From a young age, my driving interest has always been in Problem Solving. From solving puzzles in Video Games (The Legend of Zelda franchise will always be my favorite) to building computers, to talking problems through with others, to eventually coding applications for computers, problem solving has always been close at hand for me. I am thankful that I found coding as a career, as it allows me to do something that I truly enjoy for a living. I am always open to collaborative projects. Feel free to reach out to me anytime and I will get back to you as soon as I can.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-hills-a52535205/)
