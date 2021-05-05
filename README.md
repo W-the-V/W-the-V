@@ -6,7 +6,7 @@ I used to be a counselor, but have since changed careers to Software Engineering
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-hills-a52535205/)
 [![Gmail Badge](https://img.shields.io/badge/-walter.hills5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:walter.hills5@gmail.com)](mailto:walter.hills5@gmail.com)
-[![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://walterhills.dev/)
+[![portfolio](https://img.shields.io/badge/Portfolio_Site-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://walterhills.dev/)
 
 - 🔭 I’m currently working on a sorting algorithm visualizer
 - 🌱 I’m currently learning materialize, bootstrap, and brushing up on ds&a
