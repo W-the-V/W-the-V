@@ -12,7 +12,7 @@ I am thankful that I found coding as a career, as it allows me to do something t
 [![Gmail Badge](https://img.shields.io/badge/-walter.hills5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:walter.hills5@gmail.com)](mailto:walter.hills5@gmail.com)
 [![portfolio](https://img.shields.io/badge/Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://walterhills.dev/)
 
-- 🔭 I’m currently working on a sorting algorithm visualizer
+- 🔭 I’m currently working on: an eCommerce website, an algorithm visualizer, and studying ds&a
 - 🌱 I’m currently learning materialize, bootstrap, and brushing up on ds&a
 - 💬 Ask me anything. I love discussing Pyschology and Coding.
 - 👔 Currently seeking employment.
