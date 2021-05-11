@@ -13,7 +13,7 @@ I am thankful that I found coding as a career, as it allows me to do something t
 [![portfolio](https://img.shields.io/badge/Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://walterhills.dev/)
 
 - 🔭 I’m currently working on: an eCommerce website, an algorithm visualizer, and studying ds&a
-- 🌱 I’m currently learning materialize, bootstrap, and brushing up on ds&a
+- 🌱 I’m currently learning material ui, bootstrap, and brushing up on ds&a
 - 💬 Ask me anything. I love discussing Pyschology and Coding.
 - 👔 Currently seeking employment.
 
