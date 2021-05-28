@@ -45,7 +45,6 @@ I am thankful that I found coding as a career, as it allows me to do something t
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  
 
 <img align="left" alt="Walter's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-the-v" />
 </details>
