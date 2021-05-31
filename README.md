@@ -38,6 +38,7 @@ I am thankful that I found coding as a career, as it allows me to do something t
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
 
   <img align="left" alt="Walter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=w-the-v&show_icons=true&hide_border=true" />
 
