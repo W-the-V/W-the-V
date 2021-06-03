@@ -5,7 +5,7 @@ I have always been fascinated with technology, even from a young age. When I was
 
 This eventually led to my decision to make a career change to software engineering. In pursuit of this, I recently graduated from App Academy and built multiple full-stack applications. This cemented my interest in coding as a career. While furthering my understanding of such technologies as JavaScript, React, and Redux I found that it was something that I truly enjoyed.
 
-I am thankful that I found coding as a career, as it allows me to do something that I enjoy for a living. I am always open to collaborative projects. Feel free to reach out to me anytime and I will get back to you as soon as I can.
+I am thankful that I found coding as a career, as it allows me to do something that I enjoy for a living. I am always open to collaborative projects. Feel free to reach out to me anytime and I will get back to you as soon as I can. 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-hills-a52535205/)
@@ -49,4 +49,5 @@ I am thankful that I found coding as a career, as it allows me to do something t
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Walter's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-the-v" />
+
 </details>
