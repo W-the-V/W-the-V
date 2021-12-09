@@ -15,7 +15,7 @@ I am thankful that I found coding as a career, as it allows me to do something t
 - 🔭 I’m currently working on: an eCommerce website, an algorithm visualizer, and studying ds&a
 - 🌱 I’m currently learning material ui, bootstrap, and brushing up on ds&a
 - 💬 Ask me anything. I love discussing Pyschology and Coding.
-- 👔 Currently seeking employment.
+<!-- - 👔 Currently seeking employment. -->
 
 ## ⚡ Technologies
 
